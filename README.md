@@ -43,3 +43,4 @@ Through this project, I developed practical experience in:
 - Using **data storytelling** techniques to communicate insights clearly  
 
 This project highlights the development of **data visualisation and storytelling skills**, enabling complex retail and sales data to be presented in a clear, accessible, and insightful way.
+<img width="2116" height="1440" alt="image" src="https://github.com/user-attachments/assets/8279f705-8880-4716-ba2b-bb1c9154ff90" />
