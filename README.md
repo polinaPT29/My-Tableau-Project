@@ -4,7 +4,7 @@
 This project was completed as part of a **Data Technician Bootcamp** and demonstrates the use of **Tableau** to analyse and visualise retail and sales data. The objective was to transform raw data into meaningful insights by building interactive dashboards and clear visualisations that support data-driven decision making.
 
 ## Key Skills Demonstrated
-
+[Link To My Dashboard](https://public.tableau.com/app/profile/polina.tufanova/viz/Book2_17706532404490/Dashboard1)
 - **Interactive Dashboards**
   - Designed dynamic dashboards that allow users to explore retail and sales data in an intuitive and visual way.
   - Organised visual elements to present key metrics and trends clearly.
